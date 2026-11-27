@@ -61,6 +61,8 @@ Week_11/selected_raster_area.png
 Week_11/*
 !Week_11/01_Python_Basic_GIS_Functionalities/
 !Week_11/01_Python_Basic_GIS_Functionalities/**
+!Week_11/02_Python_Geocoding_Addresses/
+!Week_11/02_Python_Geocoding_Addresses/**
 
 # Week_12
 Week_12/population_and_samples.html
