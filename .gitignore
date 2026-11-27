@@ -76,6 +76,8 @@ Week_11/05_Python_GWR_Data/buildings_zh.geojson
 Week_11/06_Python_Raster_Data/*.tif
 Week_11/06_Python_Raster_Data/*.tif.download
 Week_11/06_Python_Raster_Data/municipality_part.*
+!Week_11/07_Python_Tripadvisor/
+!Week_11/07_Python_Tripadvisor/**
 
 # Week_12
 Week_12/population_and_samples.html
